@@ -2,5 +2,5 @@
 *.txt
 **/lib/
 submit.m
-octave-workspace/
-token.mat
+*/octave-workspace
+*/token.mat
